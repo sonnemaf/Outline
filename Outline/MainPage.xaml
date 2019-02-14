@@ -14,7 +14,7 @@
                                      FontWeight="Bold"
                                      FontSize="60"
                                      TextWrapping="Wrap"
-                                     OutlineThickness="7"
+                                     OutlineThickness="6"
                                      OutlineColor="Black"
                                      TextColor="White"
                                      HorizontalContentAlignment="Center"
