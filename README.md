@@ -1,5 +1,5 @@
 # Outline
-This repository containt an UWP app with OutlineTextBlock using Win2D. It can be uses to display a text which is outlined.
+This repository contains an Windows 10 UWP app with OutlineTextBlock using Win2D. It can be uses to display a text which is outlined. It is a first release which is not yet tested thouroughly. I plan to move it to the https://github.com/windows-toolkit/WindowsCommunityToolkit
 
 # Example
 ```xml
